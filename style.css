@@ -1,0 +1,66 @@
+header {
+	background-color: #F15B31
+	font-color: #FFFFFF;
+	padding: 30px 20px 30px 20px
+}
+
+body {
+	margin: 0;
+}
+
+h1 {
+	margin: 0;
+}
+
+nav {
+	background-color: #00A683;
+	font-color: #ffffff;
+	padding: 20px 0 20px 0;
+}
+
+a {
+	margin: 0 20px 0 20px;
+	font-color: #ffffff;
+}
+
+main {
+	width: 850px;
+	margin: 35px auto 35px auto;
+}
+
+img {
+	margin: 40px 8px 0 8px;
+}
+
+footer {
+	text: uppercase;
+	padding:  0 20px 0 20px;
+	background-color: #0d2c40;
+	text-color: white;
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.copyright {
+	display: Raleway
+	float: left;
+}
+
+.message {
+	display: Raleway
+	float: right;
+}
+
+.clearfix:after {
+visibility: hidden;
+display: block;
+content: " ";
+clear: both;
+height: 0;
+font-size: 0;
+}
+
+.name{
+	color: #f15b31;
+	font-weight: 700;
+}
